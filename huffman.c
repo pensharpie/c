@@ -7,7 +7,7 @@
 freq items on the left
 * Once the tree is completed, the data steam is encoded as left branch-logic 0 
 and right-logic 1
-* Data
+* Example Data
 * Item 1 - A 1
 * Item 2 - B 2
 * Item 3 - D 3
