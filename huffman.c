@@ -1,5 +1,5 @@
 /***************************************************************************************
-* This script compress data utilizing Huffman's algorithrm
+* This script compresses data utilizing Huffman's algorithrm
 * For encoding purposes, a tree is utlized
 * The tree is initially formed from two lowest freq items
 * A node is then added with its freq as the leafs sum
