@@ -3,7 +3,7 @@
 * For encoding purposes, a tree is used
 * The tree is initially formed from two lowest freq items
 * A node is then added with its freq as the leafs sum
-* As the tree expands, higher freq items are placed on the right branch and lower
+* As the tree expands, higher freq items are placed on the right and lower
 freq items on the left
 * Once the tree is completed, the data steam is encoded as left branch-logic 0 
 and right-logic 1
