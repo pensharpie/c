@@ -13,3 +13,5 @@
 12/12/2023      bTreePostStack.c   Postorder stack
 
 12/18/2023      galaxy.c           BTree which finds the nearest neighbor planent nearest Earth
+
+2/17/2024       traverseorder.c    Pre, post and inorder tree traversal
