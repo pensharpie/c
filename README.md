@@ -1,3 +1,5 @@
+Date            File               Description
+
 11/08/2023      huffman.c          Utilizes a tree to implement Huffmans algorithm to compress data streams
 
 11/24/2023      binaryheap.c       Implements a min Btree
