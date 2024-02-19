@@ -19,3 +19,5 @@ Date            File               Description
 2/17/2024       traverseorder.c    Pre, post and inorder tree traversal
 
 2/18/2024       bubblesort.c       Bubblesort using pointers
+
+2/19/2024       bsearch.c          A simple binary search using recursion
